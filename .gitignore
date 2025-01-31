@@ -1,0 +1,50 @@
+# Ignore MATLAB autosave files
+*.asv
+
+# Ignore MATLAB workspace and figure files
+*.mat
+*.fig
+
+# Ignore Simulink cache and autosave files
+*.slxc
+*.slx.autosave
+
+# Ignore MATLAB backup files (~ used for temporary backups)
+*~
+
+# Ignore MATLAB logs and session files
+*.log
+*.mexw32
+*.mexw64
+*.mexa64
+*.mexmaci64
+
+# Ignore project-specific user settings (MATLAB project files)
+*.mlappinstall
+*.mlpkginstall
+*.prj
+*.mproj
+
+# Ignore generated documentation (MATLAB Live Scripts exports)
+*.pdf
+*.html
+
+# Ignore compiled MATLAB code (standalone executables)
+*.exe
+*.dll
+*.so
+*.out
+
+# Ignore data files (if generated and should not be version-controlled)
+data/
+results/
+
+# Ignore Python and Jupyter files (if mixed MATLAB-Python project)
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Ignore hidden system files (Mac and Windows)
+.DS_Store
+Thumbs.db
+
