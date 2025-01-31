@@ -19,6 +19,7 @@ Summary:
 - Optimizes price to maximize firm profit using fminunc.
 - (Homework) compares economic outcomes like consumer surplus and social welfare.
 _Hint:_
+
 Consumer Surplus (CS) → Using the logit model formula
 Firm Profit (π) → Using the optimized price
 Social Welfare (SW) → The sum of CS + π
