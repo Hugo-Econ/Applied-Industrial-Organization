@@ -36,4 +36,19 @@ Summary:
 - Social welfare (CS + total profits)
 - Compares competitive vs. market power scenarios, analyzing the impact on prices, welfare, and firm profits.
 
+## 3. Ascending Auction
+This MATLAB script estimates bidders' private value distribution using moment matching in an ascending (English) auction. It simulates bidding behavior and explores the effect of reserve prices on seller revenue.
+
+Summary:
+- Estimates private value distribution from observed winning bids using moment matching.
+- Simulates ascending auctions with bidders drawing values from a uniform or beta distribution.
+- Computes economic outcomes:
+    Winning bids (second-highest valuation).
+    Expected seller revenue at different reserve prices.
+    Optimal reserve price maximizing seller profits.
+- Counterfactual analysis:
+    Simulates revenue implications of different reserve price policies.
+    Numerically optimizes the reserve price.
+- Compares revenue outcomes across reserve price settings, analyzing the trade-off between auction participation and revenue maximization.
+
 
