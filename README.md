@@ -18,6 +18,7 @@ Summary:
 - Simulates profit and market share across a range of prices.
 - Optimizes price to maximize firm profit using fminunc.
 - (Homework) compares economic outcomes like consumer surplus and social welfare.
+
 _Hint:_
 
 Consumer Surplus (CS) → Using the logit model formula
