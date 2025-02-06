@@ -1,3 +1,6 @@
+# Ignore all Stata autosave files
+*.stswp
+
 # Ignore MATLAB autosave files
 *.asv
 
