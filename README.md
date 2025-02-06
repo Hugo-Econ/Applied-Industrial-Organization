@@ -8,7 +8,11 @@ Stores all MATLAB functions.
 
 ## Data
 Stores datasets.
-  
+
+## 0. Demand Estimation  
+This Stata script estimates demand using a logit model, incorporating brand and time-fixed effects. It highlights the importance of addressing endogeneity in price using instrumental variables (IV) and compares different elasticity estimation methods.
+
+
 ## 1. Optimization
 This MATLAB script optimizes a firm's profit by determining the optimal price for a product while considering competition in a logit demand model. It also visualizes profit and market share as functions of price and then numerically optimizes the firm's pricing decision using _fminunc_.
 
